@@ -1,0 +1,17 @@
+{ 
+	"subject" : [ "ela",
+				  "math", 
+				  "science",
+				  "social studies" 
+				  "foreign language",
+				  "performing arts",
+				  "fine arts",
+				  "music",
+				  "technology",
+				  "consumer science",
+				  "physical education",
+				  "vocational",
+				  "business"
+				 ],
+	"gradelevel": [ "grade-12"] 
+}

@@ -1,1 +1,9 @@
-[ "roles" ]
+[
+    "MultipleElemGrade%28Instructional%20Coach%29",
+    "MultiplePKtoSec%20%28Principal%29",
+    "MultipleSeconGrade%28Instructional%20Coach%29",
+    "MultipleSubject",
+    "SpecificElemGrade%28Teacher%29",
+    "SpecificSeconGrade%20%28Teacher%29",
+    "SpecificSubject"
+]

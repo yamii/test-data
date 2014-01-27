@@ -1,73 +1,55 @@
 [{
     "_id": 1,
     "imageUrl": "img/video-bg-2.png",
-    "topic": "Closing the Gap",
+    "topic": "Basic ELA Tutorial",
     "duration": "9 min",
     "tags": {
-        "subject"    : [ "English", "Technology" ],
-        "gradelevel" : [ "grade-1", "grade-2" ]
+        "subject"    : [ "ela" ],
+        "gradelevel" : [ "kindergarten", "grade-1", "grade-2", "grade-3", "grade-4", "grade-5"]
     }
 },{
     "_id": 2,
     "imageUrl": "img/video-bg-3.png",
-    "topic": "Culture",
-    "duration": "3 min",
+    "topic": "Advanced Mathematics",
+    "duration": "6 min",
     "tags": {
-        "subject"    : [ "Social Studies" ],
-        "gradelevel" : [ "Kindergarten" ]
+        "subject"    : [ "math" ],
+        "gradelevel" : [ "grade-6", "grade-7", "grade-8", "grade-9", "grade-10", "grade-11", "grade-12" ]
     }
-},{
+ },{
     "_id": 3,
-    "imageUrl": "img/video-bg-4.png",
-    "topic": "Phones in Class",
-    "duration": "4 min",
+    "imageUrl": "img/video-bg-5.png",
+    "topic": "Music Tutorial for Pre-Kindergarten",
+    "duration": "8 min",
     "tags": {
-        "subject"    : [ "Vocational", "Technology" ],
-        "gradelevel" : [ "grade-6" ]
+        "subject"    : [ "music" ],
+        "gradelevel" : [ "pre-kindergarten"]
     }
 },{
     "_id": 4,
-    "imageUrl": "img/video-bg-5.png",
-    "topic": "Time Management",
-    "duration": "7 min",
+    "imageUrl": "img/video-bg-8.png",
+    "topic": "ELA for Pre-Kindergarten",
+    "duration": "10 min",
     "tags": {
-        "subject"    : [ "Business" ],
-        "gradelevel" : [ "grade-5" ]
+        "subject"    : [ "ela" ],
+        "gradelevel" : [ "pre-kindergarten"]
     }
 },{
     "_id": 5,
-    "imageUrl": "img/video-bg-6.png",
-    "topic": "Tech Basics",
-    "duration": "4 min",
+    "imageUrl": "img/video-bg-5.png",
+    "topic": "Learning Social Studies",
+    "duration": "5 min",
     "tags": {
-        "subject"    : [ "Technology" ],
-        "gradelevel" : [ "grade-1" ]
+        "subject"    : [ "social studies" ],
+        "gradelevel" : [ "pre-kindergarten", "kindergarten", "grade-1", "grade-2","grade-3","grade-4","grade-5","grade-6","grade-7","grade-8","grade-9","grade-10","grade-11","grade-12"]
     }
 },{
     "_id": 6,
-    "imageUrl": "img/video-bg-7.png",
-    "topic": "Learning Games",
-    "duration": "9 min",
+    "imageUrl": "img/video-bg-6.png",
+    "topic": "Business Management",
+    "duration": "4 min",
     "tags": {
-        "subject"    : [ "Technology" ],
-        "gradelevel" : [ "Pre-Kindergarten" ]
-    }
-},{
-    "_id": 7,
-    "imageUrl": "img/video-bg-8.png",
-    "topic": "Communication",
-    "duration": "5 min",
-    "tags": {
-        "subject"    : [ "English" ],
-        "gradelevel" : [ "grade-1","grade-2", "grade-3", "grade-4", "grade-5", "grade-6" ]
-    }
-},{
-    "_id": 8,
-    "imageUrl": "img/video-bg-9.png",
-    "topic": "Teaching and the Internet",
-    "duration": "11 min",
-    "tags": {
-        "subject"    : [ "Technology" ],
-        "gradelevel" : [ "grade-6" ]
+        "subject"    : [ "business" ],
+        "gradelevel" : [ "grade-6","grade-7","grade-8","grade-9","grade-10","grade-11","grade-12"]
     }
 }]
