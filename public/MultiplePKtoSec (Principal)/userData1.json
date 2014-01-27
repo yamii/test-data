@@ -9,10 +9,12 @@
 				  "music",
 				  "technology",
 				  "consumer science",
-				  "physical education"
+				  "physical education",
+				  "business",
+				  "vocational"
 				 ],
-	"gradelevel":[ "Pre-Kindergarten",
-				   "Kindergarten",
+	"gradelevel":[ "pre-kindergarten",
+				   "kindergarten",
 				   "grade-1",
 				   "grade-2",
 				   "grade-3",
