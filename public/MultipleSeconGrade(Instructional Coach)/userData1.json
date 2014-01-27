@@ -1,8 +1,8 @@
-{ 
+{
 	"subject" : [ "ela",
-				  "math", 
+				  "math",
 				  "science",
-				  "social studies" 
+				  "social studies",
 				  "foreign language",
 				  "performing arts",
 				  "fine arts",
@@ -13,5 +13,5 @@
 				  "vocational",
 				  "business"
 				 ],
-	"gradelevel": [ "grade-7","grade-8","grade-9"] 
+	"gradelevel": [ "grade-7","grade-8","grade-9"]
 }

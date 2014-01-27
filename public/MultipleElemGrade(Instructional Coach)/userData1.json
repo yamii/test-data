@@ -1,15 +1,15 @@
-{ 
+{
 	"subject" : [ "ela",
-				  "math", 
+				  "math",
 				  "science",
-				  "social studies" 
+				  "social studies",
 				  "foreign language",
 				  "performing arts",
 				  "fine arts",
 				  "music",
 				  "technology",
 				  "consumer science",
-				  "physical education" 
-				 ], 
-	"gradelevel": [ "kindergarten", "grade-1"] 
+				  "physical education"
+				 ],
+	"gradelevel": [ "kindergarten", "grade-1"]
 }
