@@ -1,9 +1,11 @@
 [
-    "MultipleElemGrade%28Instructional%20Coach%29",
-    "MultiplePKtoSec%20%28Principal%29",
-    "MultipleSeconGrade%28Instructional%20Coach%29",
-    "MultipleSubject",
-    "SpecificElemGrade%28Teacher%29",
-    "SpecificSeconGrade%20%28Teacher%29",
-    "SpecificSubject"
+    "Grade%20Specific%20-%20Grade%201",
+    "Grade%20Specific%20-%20Grade%207%20to%20Grade%209",
+    "Grade%20Specific%20-%20Grade%2012",
+    "Grade%20Specific%20-%20Kindergarten%20and%20Grade%201",
+    "Grade%20Specific%20-%20Pre-Kindergarten%20to%20Grade%2012",
+    "Subject%20Specific%20-%20ELA",
+    "Subject%20Specific%20-%20ELA%2C%20Math%2C%20Social%20Studies",
+    "Grade%20Specific%20-%20Kindergarten%20to%20Grade%205",
+    "Grade%20Specific%20-%20Grade%206%20to%20Grade%2012"
 ]
