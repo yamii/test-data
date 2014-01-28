@@ -18,7 +18,7 @@
     }
  },{
     "_id": 3,
-    "imageUrl": "img/video-bg-4.png",
+    "imageUrl": "img/video-bg-5.png",
     "topic": "Music Tutorial for Pre-Kindergarten",
     "duration": "8 min",
     "tags": {
@@ -51,5 +51,50 @@
     "tags": {
         "subject"    : [ "business" ],
         "gradelevel" : [ "grade-6","grade-7","grade-8","grade-9","grade-10","grade-11","grade-12"]
+    }
+},{
+    "_id": 7,
+    "imageUrl": "img/video-bg-3.png",
+    "topic": "New Technologies - Pre-Kindergarten to Grade 12",
+    "duration": "6 min",
+    "tags": {
+        "subject"    : [ "technology" ],
+        "gradelevel" : [ "pre-kindergarten", "kindergarten", "grade-1", "grade-2","grade-3","grade-4","grade-5","grade-6","grade-7","grade-8","grade-9","grade-10","grade-11","grade-12"]
+    }
+},{
+    "_id": 8,
+    "imageUrl": "img/video-bg-1.png",
+    "topic": "Learning Vocational Studies - Grade 6 to Grade 12",
+    "duration": "3 min",
+    "tags": {
+        "subject"    : [ "vocational" ],
+        "gradelevel" : [ "grade-6","grade-7","grade-8","grade-9","grade-10","grade-11","grade-12" ]
+    }
+},{
+    "_id": 9,
+    "imageUrl": "img/video-bg-4.png",
+    "topic": "Simple Fine Arts - Pre-Kindergarten to Grade 12",
+    "duration": "5 min",
+    "tags": {
+        "subject"    : [ "fine arts" ],
+        "gradelevel" : [ "pre-kindergarten", "kindergarten", "grade-1", "grade-2","grade-3","grade-4","grade-5","grade-6","grade-7","grade-8","grade-9","grade-10","grade-11","grade-12" ]
+    }
+},{
+    "_id": 10,
+    "imageUrl": "img/video-bg-6.png",
+    "topic": "Basic Consumer Science - Pre-Kindergarten to Grade 12",
+    "duration": "2 min",
+    "tags": {
+        "subject"    : [ "consumer science" ],
+        "gradelevel" : [ "pre-kindergarten", "kindergarten", "grade-1", "grade-2","grade-3","grade-4","grade-5","grade-6","grade-7","grade-8","grade-9","grade-10","grade-11","grade-12" ]
+    }
+},{
+    "_id": 11,
+    "imageUrl": "img/video-bg-3.png",
+    "topic": "Performing Arts Tutorial - Pre-Kindergarten to Grade 12",
+    "duration": "4 min",
+    "tags": {
+        "subject"    : [ "performing arts" ],
+        "gradelevel" : [ "pre-kindergarten", "kindergarten", "grade-1", "grade-2","grade-3","grade-4","grade-5","grade-6","grade-7","grade-8","grade-9","grade-10","grade-11","grade-12" ]
     }
 }]
