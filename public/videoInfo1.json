@@ -1,7 +1,7 @@
 [{
     "_id": 1,
     "imageUrl": "img/video-bg-2.png",
-    "topic": "Basic ELA Tutorial",
+    "topic": "Basic ELA Tutorial - Kindergarten to Grade 5",
     "duration": "9 min",
     "tags": {
         "subject"    : [ "ela" ],
@@ -10,7 +10,7 @@
 },{
     "_id": 2,
     "imageUrl": "img/video-bg-3.png",
-    "topic": "Advanced Mathematics",
+    "topic": "Advanced Mathematics - Grade 6 to Grade 12",
     "duration": "6 min",
     "tags": {
         "subject"    : [ "math" ],
@@ -37,7 +37,7 @@
 },{
     "_id": 5,
     "imageUrl": "img/video-bg-5.png",
-    "topic": "Learning Social Studies",
+    "topic": "Learning Social Studies - Pre-Kindergarten to Grade 12",
     "duration": "5 min",
     "tags": {
         "subject"    : [ "social studies" ],
@@ -46,7 +46,7 @@
 },{
     "_id": 6,
     "imageUrl": "img/video-bg-6.png",
-    "topic": "Business Management",
+    "topic": "Business Management - Grade 6 to Grade 12",
     "duration": "4 min",
     "tags": {
         "subject"    : [ "business" ],
